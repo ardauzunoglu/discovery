@@ -1,0 +1,16 @@
+# Downloaded datasets and everything the scripts produce
+data/
+outputs/
+
+# Credentials
+API_KEYS.md
+.env
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.ipynb_checkpoints/
+*.log
+wandb/
